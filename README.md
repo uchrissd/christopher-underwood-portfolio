@@ -15,7 +15,7 @@ Standard HTML/CSS and Bootstrap.
 **Screenshots**
 
 ![About page screenshot](assets/images/web-dev-about.jpg)
-![Portfolio page screenshot](assets/images/web-dev-portfolio.jpg)
+![Portfolio page screenshot](assets/images/portfolio-page.jpg)
 ![Contact page screenshot](assets/images/web-dev-contact.jpg)
 
 **Code Example**
